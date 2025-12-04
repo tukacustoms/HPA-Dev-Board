@@ -1,7 +1,7 @@
 # 🧠 HPA Triggerboard DevKit
 <img width="584" height="622" alt="Trigger unit Completed" src="https://github.com/user-attachments/assets/3bfc1ab3-8754-4f1c-9170-ca44eac81204" />
 
-Designed by Arthur – Tuka Customs™
+Designed by Arthur – Tuka Customs™ and Eric - Sapo
 
 This project showcases the end-to-end design of a fully programmable HPA triggerboard, developed from scratch as a complete electronics + product design solution for the airsoft community.
 Every part of this device—from schematic architecture to PCB stack, component selection, mechanical clearances, firmware workflow, and user-oriented experience—was engineered with precision and professional methodology.
