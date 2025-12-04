@@ -77,6 +77,7 @@ Two-PCB Sandwich Design
 The triggerboard consists of:
 
 1. Main PCB
+
 ![top bottom](https://github.com/user-attachments/assets/3b222b2e-1d27-4261-8c2d-9e895a2eb644)
 
  - ATmega32U4
@@ -88,9 +89,11 @@ The triggerboard consists of:
  - Selector switch
   
  - All decoupling + crystal network
+ - 
 ![bottom bottom](https://github.com/user-attachments/assets/e54a9df5-fce2-4ae7-b094-ddf0aca3a467)
 
 2. Top PCB
+
 ![bottom top](https://github.com/user-attachments/assets/bf08c7ed-d7a5-42f4-9ee6-f4aea2d835c2)
 
  - USB-C port
