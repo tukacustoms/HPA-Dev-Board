@@ -1,4 +1,6 @@
-# 🧠 HPA Triggerboard DevKit – Product Design Case Study
+# 🧠 HPA Triggerboard DevKit
+<img width="584" height="622" alt="Trigger unit Completed" src="https://github.com/user-attachments/assets/3bfc1ab3-8754-4f1c-9170-ca44eac81204" />
+
 Designed by Arthur – Tuka Customs™
 
 This project showcases the end-to-end design of a fully programmable HPA triggerboard, developed from scratch as a complete electronics + product design solution for the airsoft community.
@@ -81,26 +83,29 @@ Two-PCB Sandwich Design
 The triggerboard consists of:
 
 1. Main PCB
+![top bottom](https://github.com/user-attachments/assets/3b222b2e-1d27-4261-8c2d-9e895a2eb644)
 
-  ATmega32U4
+ - ATmega32U4
 
-  Trigger switch
+ - Trigger switch
   
-  IO expansion header
+ - IO expansion header
 
-  Selector switch
+ - Selector switch
   
-  All decoupling + crystal network
+ - All decoupling + crystal network
+![bottom bottom](https://github.com/user-attachments/assets/e54a9df5-fce2-4ae7-b094-ddf0aca3a467)
 
 2. Top PCB
+![bottom top](https://github.com/user-attachments/assets/bf08c7ed-d7a5-42f4-9ee6-f4aea2d835c2)
 
-  USB-C port
+ - USB-C port
 
-  Power regulation
+ - Power regulation
 
-  Firmware and serial communication system
+ - Firmware and serial communication system
 
-  Front headers connecting signals to main PCB
+ - Front headers connecting signals to main PCB
 
 - Designed to clear gearbox trigger geometry
 
@@ -131,37 +136,39 @@ VCC (regulated 5V)
 GND
 
 #  🧩 User Experience & Development Workflow
+![top top](https://github.com/user-attachments/assets/c7b54218-f48a-4660-8020-bb50e83a1157)
+
 1. Plug via USB-C
 
-  The board powers up
+  - The board powers up
   
-  Exposes USB-serial
+ - Exposes USB-serial
   
-  Accepts new firmware
+ - Accepts new firmware
   
-  Can run test modules (LEDs, OLEDs, sensors)
+ - Can run test modules (LEDs, OLEDs, sensors)
 
 2. Test Trigger + Selector Logic
 
-  Observe reactions
+ - Observe reactions
   
-  Measure timing
+ - Measure timing
   
-  Debug debounce
+ - Debug debounce
   
-  Prototype reaction systems
+ - Prototype reaction systems
 
 3. Add external modules
 
-  LED indicators
+ - LED indicators
   
-  OLED UI
+ - OLED UI
   
-  Shot counters
+ - Shot counters
   
-  Vibration motors
+ - Vibration motors
   
-  R&D equipment
+ - R&D equipment
 
 4. Drop inside replica & test in real movement
 # 🔒 Future Production Model: Competition-Safe Version
@@ -181,6 +188,7 @@ GND
 # 📈 Product Contribution Summary
 
 This project demonstrates:
+<img width="696" height="519" alt="Screenshot 2025-05-27 033009" src="https://github.com/user-attachments/assets/6c64c88f-8e62-4cf6-b7ad-0c4324dd2348" />
 
 ✔ Electronics Engineering
 
@@ -193,6 +201,7 @@ This project demonstrates:
   Decoupling + grounding strategy
   
   Dual-board communication design
+<img width="689" height="768" alt="Screenshot 2025-05-27 033134" src="https://github.com/user-attachments/assets/99225e90-ade6-4847-b4d5-565bf865b9e7" />
 
 ✔ PCB Design
 
