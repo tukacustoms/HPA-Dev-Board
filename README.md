@@ -39,10 +39,6 @@ Instead of a simple “trigger switch board,” this project becomes a testing e
 
 Using the ATmega32U4’s native USB, users can upload custom code and connect the board directly to a PC.
 
-✔ Safe for all platforms
-
-The board never interacts with solenoids, preventing cheating or performance alteration inside replicas.
-
 ✔ Expandable hardware
 
 IO headers allow creators to attach their own modules, sensors, and UX elements.
@@ -63,8 +59,6 @@ Designed around the tight geometry of V2 gearboxes with precise tolerances and a
 - Perfect for expandable firmware design
 
 - Power System
-
-- FCU 5V input
 
 - USB-C input
 
