@@ -133,6 +133,7 @@ VCC (regulated 5V)
 GND
 
 #  🧩 User Experience & Development Workflow
+
 ![top top](https://github.com/user-attachments/assets/c7b54218-f48a-4660-8020-bb50e83a1157)
 
 1. Plug via USB-C
@@ -185,6 +186,7 @@ GND
 # 📈 Product Contribution Summary
 
 This project demonstrates:
+
 <img width="696" height="519" alt="Screenshot 2025-05-27 033009" src="https://github.com/user-attachments/assets/6c64c88f-8e62-4cf6-b7ad-0c4324dd2348" />
 
 ✔ Electronics Engineering
@@ -198,6 +200,7 @@ This project demonstrates:
   Decoupling + grounding strategy
   
   Dual-board communication design
+  
 <img width="689" height="768" alt="Screenshot 2025-05-27 033134" src="https://github.com/user-attachments/assets/99225e90-ade6-4847-b4d5-565bf865b9e7" />
 
 ✔ PCB Design
@@ -233,5 +236,3 @@ This project demonstrates:
   User-friendly testing workflow
 
 🦾 Designed by Arthur – Tuka Customs™
-
-A brand merging engineering precision, competitive airsoft innovation, and product design mastery.
